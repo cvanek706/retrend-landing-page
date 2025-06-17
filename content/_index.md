@@ -10,8 +10,8 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Give Your Retail A Mind.
+      text: Leverage AI to Gain New Insights From Real Customer Activity, Make Category Management Effortless, and Maximize Exposure.
       primary_action:
         text: Get Started
         url: https://hugoblox.com/templates/
@@ -37,51 +37,30 @@ sections:
           filename: bg-triangles.svg
           filters:
             brightness: 0.5
-  - block: stats
-    content:
-      items:
-        - statistic: "1M+"
-          description: |
-            Websites built  
-            with Hugo Blox
-        - statistic: "10k+"
-          description: |
-            GitHub stars  
-            since 2016
-        - statistic: "3k+"
-          description: |
-            Discord community  
-            for support
-    design:
-      # Section background color (CSS class)
-      css_class: "bg-gray-100 dark:bg-gray-900"
-      # Reduce spacing
-      spacing:
-        padding: ["1rem", 0, "1rem", 0]
   - block: features
     id: features
     content:
       title: Features
-      text: Build your site with blocks 🧱
+      text: Discover how Retrend AI can transform your business
       items:
-        - name: Optimized SEO
-          icon: magnifying-glass
-          description: Automatic sitemaps, RSS feeds, and rich metadata take the pain out of SEO and syndication.
-        - name: Fast
+        - name: GeorgeBot
           icon: bolt
-          description: Super fast page load with Tailwind CSS and super fast site building with Hugo.
-        - name: Easy
+          description: Our real-time conversational chatbot integrates directly with your inventory, providing an excellent, automated, and fully observable customer experience.
+        - name: Re-Category
+          icon: magnifying-glass
+          description: Category management headaches are a thing of the past. Automate your categories with zero loss of control or accuracy. Leverage robust, lightning-fast search algorithms.
+        - name: Kiosks
           icon: sparkles
-          description: One-click deployment to GitHub Pages. Have your new website live within 5 minutes!
-        - name: No-Code
-          icon: code-bracket
-          description: Edit and design your site just using rich text (Markdown) and configurable YAML parameters.
-        - name: Highly Rated
+          description: Employ GeorgeBot as both software and hardware on a kiosk in your store today, with cutting-edge semantic turn-detection, noise filtering, and acoustic echo cancellation.
+        - name: Customizable. Easy.
           icon: star
-          description: Rated 5-stars by the community.
-        - name: Swappable Blocks
+          description: Take full control of the retail experience. Choose which products GeorgeBot should tell customers about and maximize exposure.
+        - name: Analytics
           icon: rectangle-group
-          description: Build your pages with blocks - no coding required!
+          description: Make informed decisions in ways previously impossible. backed by meaningful insights with intent analysis, product engagement stats, and so much more.
+        - name: ...And Much More
+          icon: code-bracket
+          description: Open up new possibilities to grow your business in new ways.
   - block: cta-image-paragraph
     id: solutions
     content:
